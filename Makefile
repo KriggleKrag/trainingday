@@ -3,3 +3,6 @@ e:
 
 m:
 	go run ./cmd/math
+
+v:
+	go run ./cmd/variables
