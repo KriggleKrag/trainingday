@@ -1,2 +1,2 @@
 r:
-	go run main.go
+	go run ./cmd/essential
