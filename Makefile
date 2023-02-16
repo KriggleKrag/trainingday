@@ -6,3 +6,6 @@ m:
 
 v:
 	go run ./cmd/variables
+
+c:
+	go run ./cmd/constants
