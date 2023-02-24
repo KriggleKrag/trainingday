@@ -5,3 +5,5 @@
 * [Go by example](https://gobyexample.com/)
 * [GNU Make](https://www.gnu.org/software/make/manual/make.html#Introduction)
 
+run gum demo with { bash ./gum.sh }
+
