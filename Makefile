@@ -9,3 +9,6 @@ v:
 
 c:
 	go run ./cmd/constants
+
+t:
+	go run ./cmd/todo
